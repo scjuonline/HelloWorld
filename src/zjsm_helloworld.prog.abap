@@ -8,4 +8,5 @@ REPORT zjsm_helloworld.
 
 START-OF-SELECTION.
 
+*JSM
   WRITE 'HelloWorld'.
